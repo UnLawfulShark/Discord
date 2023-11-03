@@ -1,6 +1,6 @@
 {
     "networth": {
-        "apiKey": ""
+        "apiKey": "e4678d27-8548-4034-953c-9434dd42553d"
     },
 
     "URLS": {
@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1170094614351450153/lxFKy4oMALKFUE-M4tYNDImdaFcYvLGIljNlfBxdzC0Ftnve5fG872_1e7z7mbHZo1KX"
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "f1342540-e0f1-4565-be84-fb411a9857b8",
+        "client_secret": "9aa02ce3-0f9d-4bfd-9879-936217ecb59e",
+        "redirect_uri": "https://verify-jprh.onrender.com"
     }
 }
